@@ -1,0 +1,23 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-radius: 5%;
+}
+th, td {
+  table-layout: fixed;
+  background-color: #060ce9;
+  text-align:center;
+  color: white;
+  width: 150px;
+  height: 100px;
+  
+}
